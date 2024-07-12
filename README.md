@@ -1,1 +1,1 @@
-.github Repo for public profile and README.md
+Profile repo for the Uplink Systems organization on GitHub
