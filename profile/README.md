@@ -24,7 +24,7 @@ The following modules are publicly available under the EUPL 1.2 license or will 
 * terraform-module-azuread-invitation
 * terraform-module-azuread-named-location
 * terraform-module-azuread-user
-* ~~terraform-module-azuredevops-organization-user-entitlement~~
+* terraform-module-azuredevops-organization-user-entitlement
 * terraform-module-azuredevops-project
 * ~~terraform-module-azuredevops-project-git-repository~~
 * ~~terraform-module-azuredevops-project_repository_policy~~
