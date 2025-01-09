@@ -20,18 +20,18 @@ The module structure tries to follow Hashicorp's recommended structure if possib
 The following modules are publicly available under the EUPL 1.2 license or will be released soon:  
 
 * terraform-module-ad-gpo
-* ~~terraform-module-azuread-group~~
-* ~~terraform-module-azuread-invitation~~
-* ~~terraform-module-azuread-named_location~~
-* ~~terraform-module-azuread-user~~
-* ~~terraform-module-azuredevops-organization_user_entitlement~~
+* terraform-module-azuread-group
+* terraform-module-azuread-invitation
+* terraform-module-azuread-named-location
+* terraform-module-azuread-user
+* ~~terraform-module-azuredevops-organization-user-entitlement~~
 * terraform-module-azuredevops-project
-* ~~terraform-module-azuredevops-project_git_repository~~
+* ~~terraform-module-azuredevops-project-git-repository~~
 * ~~terraform-module-azuredevops-project_repository_policy~~
 * ~~terraform-module-azuredevops-project_team~~
 * ~~terraform-module-azuredevops-project_wiki~~
 * ~~terraform-module-azuredevops-project_workitem~~
-* ~~terraform-module-azurerm-dns~~
-* ~~terraform-module-azurerm-role_definition~~
+* terraform-module-azurerm-dns
+* terraform-module-azurerm-role-definition
 * terraform-module-github-repository
-* ~~terraform-module-pki-1_tier_pki~~
+* terraform-module-pki-1-tier
