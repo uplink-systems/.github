@@ -19,7 +19,7 @@ The module structure tries to follow Hashicorp's recommended structure if possib
 
 The following modules are publicly available under the EUPL 1.2 license or will be released soon:  
 
-* ~~terraform-module-ad-group_policy~~
+* terraform-module-ad-gpo
 * ~~terraform-module-azuread-group~~
 * ~~terraform-module-azuread-invitation~~
 * ~~terraform-module-azuread-named_location~~
