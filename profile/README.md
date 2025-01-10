@@ -4,6 +4,10 @@
 
 Welcome to the code repositories of Andreas Schreiner IT-Services.  
 
+### Licensing
+
+Most of my repositories' code is licensed under the European Union Public License (EUPL) version 1.2.
+
 ### Terraform module repositories
 
 Repositories that have names beginning with **terraform-module-** contain modules for Terraform IaC deployments.  
@@ -17,7 +21,7 @@ The module structure tries to follow Hashicorp's recommended structure if possib
 
 #### Available modules
 
-The following modules are publicly available under the EUPL 1.2 license or will be released soon:  
+The following modules are publicly available or will be released soon:  
 
 * terraform-module-ad-gpo
 * terraform-module-azuread-group
