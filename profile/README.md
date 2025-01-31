@@ -30,7 +30,7 @@ The following modules are publicly available or will be released soon:
 * terraform-module-azuread-user
 * terraform-module-azuredevops-organization-user-entitlement
 * terraform-module-azuredevops-project
-* ~~terraform-module-azuredevops-project-git-repository~~
+* terraform-module-azuredevops-project-git-repository
 * ~~terraform-module-azuredevops-project_repository_policy~~
 * ~~terraform-module-azuredevops-project_team~~
 * ~~terraform-module-azuredevops-project_wiki~~
